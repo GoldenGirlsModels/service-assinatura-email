@@ -1,2 +1,1 @@
-- Pendente: Ajustar o html gerado para não utilizar Bootstrap
-  - Dependencias externas podem ser bloqueadas  pelos programas de email, como Thunderbird
+- Pendente: Ajustar o seu uso no Thunderbird
